@@ -1,0 +1,17 @@
+{
+  "name": "binarta.professional.app.angular",
+  "main": [
+    "./src/professional.app.js",
+    "./sources.json"
+  ],
+  "dependencies": {
+    "binarta.opening.hours.angular": "0.*.*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

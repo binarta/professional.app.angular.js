@@ -1,0 +1,1 @@
+angular.module('professional.app', ['opening.hours', 'opening.hours.templates']);
