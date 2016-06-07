@@ -1,8 +1,5 @@
 {
-  "professional": {
-    "professional.app": "bower_components/binarta.professional.app.angular/src/professional.app.js",
-    "calendar.events.rest" : "bower_components/binarta.calendar.events.rest.angular/src/calendar.events.rest.js",
-    "opening.hours": "bower_components/binarta.opening.hours.angular/src/opening.hours.js",
-    "opening.hours.templates": "bower_components/binarta.opening.hours.angular/src/opening-hours-tpls-bootstrap3.js"
+  "default": {
+    "professional.app": "bower_components/binarta.professional.app.angular/src/professional.app.js"
   }
 }
