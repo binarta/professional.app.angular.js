@@ -1,1 +1,1 @@
-angular.module('professional.app', ['opening.hours', 'opening.hours.templates']);
+angular.module('professional.app', ['basic.app', 'opening.hours', 'opening.hours.templates']);
