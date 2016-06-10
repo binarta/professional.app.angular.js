@@ -5,7 +5,7 @@
     "./sources.json"
   ],
   "dependencies": {
-    "binarta.basic.app.angular": "0.*.*",
+    "binarta.essential.app.angular": "0.*.*",
     "binarta.opening.hours.angular": "0.*.*"
   },
   "ignore": [
