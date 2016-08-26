@@ -5,7 +5,7 @@
     "./sources.json"
   ],
   "dependencies": {
-    "binarta.essential.app.angular": "git@github.com:binarta/essential.app.angular.js#cfi",
+    "binarta.essential.app.angular": "git@github.com:binarta/essential.app.angular.js#nws",
     "binarta.opening.hours.angular": "0.*.*"
   },
   "ignore": [
